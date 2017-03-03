@@ -1,0 +1,2 @@
+# Tetracycline
+Resistance to tetracycline
